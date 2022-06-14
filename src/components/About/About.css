@@ -1,0 +1,33 @@
+.about {
+    margin: 25px;
+}
+.block {
+    display: flex;
+}
+.info__block {
+    height: 450px;
+    width: 450px;
+    padding: 15px;
+
+
+    background-color: rgb(26, 26, 26);
+    box-shadow: rgba(0, 0, 0, 0.5) 2px 2px 4px 0px, rgba(58, 58, 58, 0.376) -2px -2px 4px 0px;
+    -webkit-box-shadow: rgba(0, 0, 0, 0.5) 2px 2px 4px 0px, rgba(58, 58, 58, 0.376) -2px -2px 4px 0px;
+    border-radius: 0px;
+    -webkit-border-radius: 0px;
+
+
+}
+.info__block h1 {
+    text-align: center;
+}
+.info__block h1, p {
+    background-color: rgba(255, 255, 255, 0.01);
+}
+
+.photo div {
+    height: 450px;
+    width: 450px;
+    background-color: #fff;
+
+}
