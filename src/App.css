@@ -12,9 +12,9 @@ a {
 li {
   list-style: none;
 }
-a:hover {
-  text-decoration: revert;
-}
+/*a:hover {*/
+/*  text-decoration: revert;*/
+/*}*/
 .footer {
   position: absolute;
   bottom: 0;

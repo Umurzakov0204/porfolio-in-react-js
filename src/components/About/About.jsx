@@ -7,7 +7,7 @@ function About() {
         <section className={"about"}>
             <Header/>
             <section className={"block"}>
-                <section>
+                <section className={"out__block"}>
                     <div className={"info__block"}>
                         <h1>About me</h1>
                         <p>Привет, меня зовут Али я Веб-разработчик <br/>

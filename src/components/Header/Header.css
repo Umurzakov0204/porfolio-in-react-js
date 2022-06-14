@@ -5,3 +5,6 @@ nav {
     font-size: 22px;
     height: 5em;
 }
+header nav li {
+    color: blue;
+}
